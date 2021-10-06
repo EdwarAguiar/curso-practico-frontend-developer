@@ -25,7 +25,6 @@ html {
     height: 100vh;
     display: grid;
     place-items: center;
-    /* position: relative; */
 }
 .form-container {
     display: grid;
@@ -90,8 +89,6 @@ html {
     font-size: var(--md);
     font-weight: bold;
     cursor: pointer;
-    /* position: absolute;
-    bottom: 10px; */
 }
 .login-button {
     margin-top: 14px;
